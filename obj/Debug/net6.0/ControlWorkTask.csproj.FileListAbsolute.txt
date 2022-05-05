@@ -1,0 +1,15 @@
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/Debug/net6.0/ControlWorkTask.csproj.AssemblyReference.cache
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/Debug/net6.0/ControlWorkTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/Debug/net6.0/ControlWorkTask.AssemblyInfoInputs.cache
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/Debug/net6.0/ControlWorkTask.AssemblyInfo.cs
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/Debug/net6.0/ControlWorkTask.csproj.CoreCompileInputs.cache
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/bin/Debug/net6.0/ControlWorkTask
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/bin/Debug/net6.0/ControlWorkTask.deps.json
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/bin/Debug/net6.0/ControlWorkTask.runtimeconfig.json
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/bin/Debug/net6.0/ControlWorkTask.dll
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/bin/Debug/net6.0/ControlWorkTask.pdb
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/Debug/net6.0/ControlWorkTask.dll
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/Debug/net6.0/refint/ControlWorkTask.dll
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/Debug/net6.0/ControlWorkTask.pdb
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/Debug/net6.0/ControlWorkTask.genruntimeconfig.cache
+/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/Debug/net6.0/ref/ControlWorkTask.dll

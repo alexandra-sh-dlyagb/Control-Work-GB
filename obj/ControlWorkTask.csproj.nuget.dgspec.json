@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zaza/Desktop/лекция пример/dz_z/ControlWorkTask/ControlWorkTask.csproj": {}
+    "/Users/zaza/Desktop/лекция пример/ControlWorkTask/ControlWorkTask.csproj": {}
   },
   "projects": {
-    "/Users/zaza/Desktop/лекция пример/dz_z/ControlWorkTask/ControlWorkTask.csproj": {
+    "/Users/zaza/Desktop/лекция пример/ControlWorkTask/ControlWorkTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zaza/Desktop/лекция пример/dz_z/ControlWorkTask/ControlWorkTask.csproj",
+        "projectUniqueName": "/Users/zaza/Desktop/лекция пример/ControlWorkTask/ControlWorkTask.csproj",
         "projectName": "ControlWorkTask",
-        "projectPath": "/Users/zaza/Desktop/лекция пример/dz_z/ControlWorkTask/ControlWorkTask.csproj",
+        "projectPath": "/Users/zaza/Desktop/лекция пример/ControlWorkTask/ControlWorkTask.csproj",
         "packagesPath": "/Users/zaza/.nuget/packages/",
-        "outputPath": "/Users/zaza/Desktop/лекция пример/dz_z/ControlWorkTask/obj/",
+        "outputPath": "/Users/zaza/Desktop/лекция пример/ControlWorkTask/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zaza/.nuget/NuGet/NuGet.Config"
